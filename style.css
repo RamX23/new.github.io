@@ -1,0 +1,19 @@
+<style>
+ul{list-style: none; float: left;  text-decoration: none; color: blueviolet;}
+li{float: left; padding: 13px; margin: 7px;}
+#navbar{ overflow: auto; border-radius: 5px; font-size: 20px; color: blueviolet; text-decoration: none;}
+.search{float: right;padding: 3px; margin: 20px; color: black; border: black; border-radius: 5px;  }
+ul li a{color:  rgb(5, 65, 23); text-decoration: none; font-size: 19px;}
+h1{text-align: center; color: rgba(180, 25, 116, 0.795); font-weight: bold; font-size: 45px; padding-bottom: 15px;} 
+p{text-align: center; font-size: 25px; color: rgb(13, 197, 105);}
+ a:hover{color: rgb(0, 0, 0);}
+.adv{color: rgb(179, 28, 103); list-style: square; font-size:25px; border:2px solid rgba(145, 177, 30, 0.712) ; width: 240px; height: 60px; display: inline-block; padding: 20px; margin:auto; border-radius: 8PX; display: inline-block;} 
+h3{ margin: 30px; text-align: center; color: blueviolet;}
+.p1{  width: 550px; color: rgb(0, 0, 0); align-content: center; padding: 20px;margin: auto; font-size: 20px;}
+#text{text-align: center;display: inline block; width: 350px; margin: auto;padding: 15px; color: rgb(173, 60, 18); border: 1px solid black;}
+marquee{color: brown;}
+#intro{text-align: right; color: red;}
+
+
+
+</style>
